@@ -1,0 +1,41 @@
+                   (1)    Absolute                                                                                 
+
+  Syntax
+  {
+    position:absolute;
+  }                                 
+
+* With relative positioning, an element can be
+ movied up,down,left,or rihgt form its normal postion.
+
+* It will not break the normal document flow to postion
+ the element on the page.
+
+* The element will leave the spasce at its original postion & other 
+ content will not be adjusted to fit into any gap left by the element.
+
+
+                    (2)   Relative
+
+  Syntax
+
+
+  {
+    postion:relative;
+  }
+
+* With absolute positioning an element is positioned relative to its nearest 
+positioned ancestor.
+
+* It will break the normal document flow to postionthe elementon the page.
+
+* The element will not leaveany space in its originol postion.
+
+
+
+
+
+
+
+
+
